@@ -19,7 +19,8 @@ def quickselect(arr, low, high, k):
             return quickselect(arr, pivot_index + 1, high, k)
     return None
 
+#main part of the program
 arr = [64, 34, 25, 12, 22, 11, 90]
-k = 5  # Find the 3rd smallest element (index 5)
+k = 2
 kth_smallest = quickselect(arr, 0, len(arr) - 1, k)
 print(f"The {k+1}-th smallest element is:", kth_smallest)
