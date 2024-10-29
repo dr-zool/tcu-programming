@@ -34,7 +34,7 @@ def deleteElement(arr, key):
 
 # Example usage
 arr = array('i', [1, 2, 3, 4, 5])
-key_to_delete = 3
+key_to_delete = 1
 
 # Find the element
 print(f"Index of {key_to_delete}: {findElement(arr, key_to_delete)}")

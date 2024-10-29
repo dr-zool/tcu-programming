@@ -1,6 +1,5 @@
 import array
 
-
 def insertElement(arr, x, pos):
     n = len(arr)  # Current length of the array
     if pos < 0 or pos > n:  # Validate the position
@@ -21,7 +20,7 @@ def insertElement(arr, x, pos):
 
 # Example usage
 arr = array.array('i', [1, 2, 3, 4, 5])
-x = 10  # Element to insert
+x = 1  # Element to insert
 pos = 2  # Position to insert the element
 
 # Insert element

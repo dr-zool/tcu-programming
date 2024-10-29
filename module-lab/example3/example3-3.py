@@ -1,6 +1,6 @@
 # Open input and output files
-input_file = open("input.txt", "r")
-output_file = open("output.txt", "w")
+input_file = open("../example2/input.txt", "r")
+output_file = open("../example2/output.txt", "w")
 
 # Process each line in the input file
 for line_str in input_file:

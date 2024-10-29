@@ -24,3 +24,4 @@ def insert_at_end(head, value):
     current.next = new_node
 
     return head
+
