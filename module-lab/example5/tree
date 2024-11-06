@@ -2,8 +2,12 @@ digraph {
 	2 [label=2]
 	2 -> 3
 	3 [label=3]
-	3 -> 5
-	5 [label=5]
-	2 -> 4
+	3 -> 4
 	4 [label=4]
+	4 -> 7
+	7 [label=7]
+	3 -> 6
+	6 [label=6]
+	2 -> 5
+	5 [label=5]
 }

@@ -11,11 +11,15 @@ firstNode = Node(2)
 secondNode = Node(3)
 thirdNode = Node(4)
 fourthNode = Node(5)
+fifthNode = Node(6)
+sixthNode = Node(7)
 
 # Connect binary tree nodes
 firstNode.left = secondNode
-firstNode.right = thirdNode
-secondNode.left = fourthNode
+firstNode.right = fourthNode
+secondNode.left = thirdNode
+secondNode.right = fifthNode
+thirdNode.left = sixthNode
 
 # Function to visualize the binary tree
 def visualize_tree(node):
