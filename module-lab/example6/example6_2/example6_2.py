@@ -12,6 +12,16 @@ class Bicycle:
     def brake(self):
         print(f"The {self.color} {self.bike_type} has stopped.")
 
+class Student_bike(Bicycle):
+    def __init__(self, color, bike_type, bike_id):
+        super().__init__(color, bike_type)
+        self.bike_id = bike_id
+
+class Visitor_bike(Bicycle):
+    def __init__(self, color, bike_type, visitor_bike_id):
+        super().__init__(color, bike_type)
+        self.visitor_bike_id = visitor_bike_id
+
 # Main code to create an instance and use its methods
 if __name__ == "__main__":
     # Instance creation
