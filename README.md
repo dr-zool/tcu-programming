@@ -12,8 +12,8 @@ This repo is for Special Lecture (Mechanical I) and Special Lecture (Mechanical 
 6. Data Structure – Array-Based Sequences and Trees✅
 7. Object-Oriented Programming and its Console Interaction✅
 8. Polymorphism, Behavior, and Inheritance✅
-9. Data Crawling function
-10. Parallel System Tool: Forking Process
+9. Data Crawling function✅
+10. Parallel System Tool
 11. Docker and Container
 12. Open-Interpreter
 13. RPA-Agent and Process
