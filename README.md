@@ -4,7 +4,7 @@
 This repo is for Special Lecture (Mechanical I) and Special Lecture (Mechanical II) at Tokyo City University
 
 **Topics for Advanced Programming**:
-1. Introduction to Open-Source Programming, the use of Jupyter Notebook service and Github.✅
+1. Open-Source Programming, Jupyter Notebook service and Github✅
 2. Objects in Python and Control Flow✅
 3. Input-Output and Exception Handling✅
 4. Sorting and Selection Algorithm✅
