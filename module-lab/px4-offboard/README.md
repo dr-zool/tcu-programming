@@ -7,13 +7,11 @@ The `px4_offboard` package contains the following nodes
 
 The source code is released under a BSD 3-Clause license.
 
-- **Author**: Jaeyoung Lim
-- **Affiliation**: Autonomous Systems Lab, ETH Zurich
 
 ## Setup
 Add the repository to the ros2 workspace
 ```
-git clone https://github.com/Jaeyoung-Lim/px4-offboard.git
+git clone https://github.com/dr-zool/tcu-programming/tree/main/module-lab/px4-offboard
 ```
 
 If you are running this on a companion computer to PX4, you will need to build the package on the companion computer directly. 
